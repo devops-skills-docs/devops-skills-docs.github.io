@@ -1,0 +1,8 @@
+site_name: "Devops Skills Documentation"
+
+# nav:
+#   - Home: index.md
+#   - About: about.md
+plugins: []
+theme:
+  name: 'material'
