@@ -1,0 +1,3 @@
+```shell
+subfinder -d <fqdn>
+```

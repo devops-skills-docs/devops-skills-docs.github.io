@@ -1,0 +1,7 @@
+```shell
+nproc
+```
+
+```shell
+lscpu
+```

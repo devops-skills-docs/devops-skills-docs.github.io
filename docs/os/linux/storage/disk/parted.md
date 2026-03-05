@@ -1,0 +1,3 @@
+```shell
+sudo parted -l
+```

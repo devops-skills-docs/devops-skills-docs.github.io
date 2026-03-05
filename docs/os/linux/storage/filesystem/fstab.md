@@ -1,0 +1,5 @@
+
+
+```shell
+cat /etc/fstab
+```
