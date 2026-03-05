@@ -1,0 +1,14 @@
+## history
+Many  programs  read  input  from the user a line at a time.  The GNU History library is able to keep track of those 
+lines, associate arbitrary data with each line, and utilize information from previous lines in composing new ones.
+```shell
+history
+```
+### Latest n commands
+```shell
+history <n>
+```
+#### Delete history
+```shell
+history -c
+```

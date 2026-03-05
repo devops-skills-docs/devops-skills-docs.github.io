@@ -1,0 +1,18 @@
+## apropos
+`apropos` searches man pages descriptions for instances of `keyword`.
+
+`keyword` is usually a regular expression, as if (-r) was used, or may contain wildcards (-w), or match the  exact  keyword  (-e).   
+Using  these options, it may be necessary to quote the keyword or escape (\) the special characters to stop the shell from interpreting them.
+
+The standard matching rules allow matches to be made against the page name and word boundaries in the description.
+
+The database searched by apropos is updated by the mandb program.  Depending on your installation, this may be run 
+by a periodic cron job, or may need to be run manually after new manual pages have been installed.
+
+```shell
+man apropos
+```
+ 
+```shell
+apropos <keyword>
+```
